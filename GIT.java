@@ -84,7 +84,7 @@ public class GIT {
             temp = String.valueOf(this.addStudent(input[4][0]));
             result[4] = temp;
 
-            //哈哈哈哈啊啊啊啊
+            //哈哈哈
             return result;
         }
 
